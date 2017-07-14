@@ -687,6 +687,21 @@ td.gutter {
 /* --- post --- */
 article {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-align:justify;
-  text-justify:inter-ideograph;
+}
+
+/* --- used for centering and resizing posted images --- */
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+.image-width-480
+{
+  width: 480px;
+}
+
+.image-width-640
+{
+  width: 640px;
 }
