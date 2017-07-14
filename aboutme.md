@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Zhixuan LI's Bio
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Zhixuan LI, and if you like you can call me Joshua which sounds similar to my Chinese name in some way. I am an engineer familiar with computer vision and related applications.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Well...I have drawn a mind map for the purpose of self introduction. You can refer to it in the following image and I hope it is helpful. In addition, you can find the code of this website [here](https://github.com/joshua19881228/joshua19881228.github.io) and find me at [github](https://github.com/joshua19881228). My email is zhixuan.1988.li [AT] gmail [DOT] com. At last thank you for your visiting my website.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![Joshua's Profile](img/my_profile.jpg "Joshua's Profile"){: .center-image .image-width-640}
