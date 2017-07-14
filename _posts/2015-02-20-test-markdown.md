@@ -22,7 +22,9 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-image .image-width-480}
+
+![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-image .image-width-640}
 
 Here's a code chunk:
 
@@ -49,4 +51,9 @@ var foo = function(x) {
   return(x + 5);
 }
 foo(3)
+{% endhighlight %}
+
+{% highlight c++ linenos %}
+#include<string>
+string x = "absl";
 {% endhighlight %}
