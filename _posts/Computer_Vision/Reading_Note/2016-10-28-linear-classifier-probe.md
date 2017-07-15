@@ -1,6 +1,7 @@
 ---
 title: "Reading Note: Understanding intermediate layers using linear classifier probes"
-category: ["Computer Vsion", "Reading Note"]
+category: ["Computer Vsion"]
+tag: "Reading Note"
 ---
 
 **TITLE**: Understanding intermediate layers using linear classifier probes

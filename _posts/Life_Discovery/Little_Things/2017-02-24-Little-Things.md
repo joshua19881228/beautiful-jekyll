@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170224]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 Moved to new apartment. 

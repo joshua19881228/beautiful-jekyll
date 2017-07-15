@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161205]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 >在这一时期，朝鲜半岛上的新罗与唐朝结盟，扩张势力，压迫百济。朝廷决定援助百济，所以661年天皇亲自前往九州岛，不过她却在远征开始前就过世了。那一年，中大兄虽然以皇太子名义称制，但没有正式即位，随后663年就经历了白村江之战。

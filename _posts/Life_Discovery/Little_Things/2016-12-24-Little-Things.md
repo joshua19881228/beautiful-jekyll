@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20161224]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 虽说我不是什么信徒，但是这圣诞节的气氛还是挺感染人的，今天加了一上午班总觉的怪凄惨的，再加上想解决的问题最终没有搞定，就更悲凉了。下午应景又看了《真爱至上》，也算抚慰一下受伤的心灵。这电影看了得有五六年了，每年都会翻出了再看看，虽然故事基本都背下来了，但是每次看依旧会有满满的幸福感。

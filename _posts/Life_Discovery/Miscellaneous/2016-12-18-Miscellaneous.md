@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161218]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 前一阵看了《血战钢锯岭》，好像很久很久没有看过这么经典风格的战争片了，看一看还挺过瘾的，不过仔细想想这片好像不能只算是战争片，更多的可能算宗教篇。

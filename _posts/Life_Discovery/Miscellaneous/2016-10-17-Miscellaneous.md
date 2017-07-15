@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161017]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 >记住，玛雅：我们在二十岁有共鸣的东西到了四十岁的时候不一定能产生共鸣，反之亦然。书本如此，生活亦如此。——《岛上书店》

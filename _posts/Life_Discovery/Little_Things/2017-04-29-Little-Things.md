@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170429]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 Tired after a business trip...

@@ -68,7 +68,31 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+      <span class="post-meta"><b>Posted on</b> {{ page.date | date: "%B %-d, %Y" }}</span>
+      {% if page.categories.size > 0 %}
+        <span class="post-meta">
+          <b>Categories:</b>
+          {% if site.link-categories %}
+          {% for category in page.categories %}
+            <a href="/category/{{ category }}">{{ category }}</a>
+          {% endfor %}
+          {% else %}
+            {{ page.categories | join: ", " }}
+          {% endif %}
+        </span>
+      {% endif %}
+      {% if page.tags.size > 0 %}
+        <span class="post-meta">
+          <b>Tags:</b>
+          {% if site.link-tags %}
+          {% for tag in page.tags %}
+            <a href="/tag/{{ tag }}">{{ tag }}</a>
+          {% endfor %}
+          {% else %}
+            {{ page.tags | join: ", " }}
+          {% endif %}
+        </span>
+      {% endif %}
 		  {% endif %}
         </div>
       </div>

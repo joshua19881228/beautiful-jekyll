@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170212]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 原来“不转死全家”来自于《午夜凶铃》

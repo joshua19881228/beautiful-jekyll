@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170410]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 >人生就是不停地在做选择，抓起一些，就得放下一些。豁达的人经常问自己，我得到了什么，而不是我失去了什么？选择了一条路，自然会错过另一条路上的风景，与其眺望远处，不如珍惜眼前，每个地方都会春暖花开。

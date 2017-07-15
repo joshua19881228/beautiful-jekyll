@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20170215]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 Forgiveness comes from courage.

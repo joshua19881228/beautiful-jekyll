@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20161026]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 没什么新鲜事，应该督促自己读paper了。

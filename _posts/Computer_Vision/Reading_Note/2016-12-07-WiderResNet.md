@@ -1,6 +1,7 @@
 ---
 title: "Reading Note: Wider or Deeper: Revisiting the ResNet Model for Visual Recognition"
-category: ["Computer Vsion", "Reading Note"]
+category: ["Computer Vsion"]
+tag: "Reading Note"
 ---
 
 **TITLE**:  Wider or Deeper: Revisiting the ResNet Model for Visual Recognition

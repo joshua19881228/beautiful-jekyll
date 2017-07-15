@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170705]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 The last flower in this month.

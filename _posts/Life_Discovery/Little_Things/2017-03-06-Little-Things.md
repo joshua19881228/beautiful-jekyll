@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170306]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 We can see the vague image of Orion right below the Moon and Alhena top left, Aldebaran top right, Sirius left bottom. I've not been looking at the stars for a long time! I can not even remember when was the last time I do that.

@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170313]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 Sunday was really sunny! Beautiful breakfast, beautiful day!

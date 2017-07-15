@@ -1,6 +1,7 @@
 ---
 title: "Reading Note: A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction"
-category: ["Computer Vsion", "Reading Note"]
+category: ["Computer Vsion"]
+tag: "Reading Note"
 ---
 
 **TITLE**: A New Convolutional Network-in-Network Structure and Its Applications in Skin Detection, Semantic Segmentation, and Artifact Reduction

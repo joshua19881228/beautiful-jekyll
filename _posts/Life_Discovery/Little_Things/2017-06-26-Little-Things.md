@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170626]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 Another week.

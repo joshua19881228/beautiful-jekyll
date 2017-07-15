@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161122]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 看了一部特别压抑的日本电影——《害虫》，由盐田明彦导演，宫崎葵主演。当时16岁的小葵评价这部影片赢得了2001年法国南特三大陆电影节影后。

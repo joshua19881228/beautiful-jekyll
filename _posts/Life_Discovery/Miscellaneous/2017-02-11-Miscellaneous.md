@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20170211]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 春节之后好像更累。

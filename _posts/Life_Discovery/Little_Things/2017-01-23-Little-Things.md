@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170123]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 It's only 18 years till the story of *I, Robot* happens...

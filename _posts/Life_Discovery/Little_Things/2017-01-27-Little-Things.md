@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170127]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 After reviewing the classic	movies *Master and Commander: The Far Side of the World* and *A Beautiful Mind*, I surprisingly found that both of them Russell Crowe and Paul Bettany took part in. They had very interesting chemical reaction in both movies and acted well. I must say I like these two actors very much because of their marvelous act.

@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170415]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 How's about this?? Maybe I'd like to start up my own business of bakery if I was unemployed. LOL...

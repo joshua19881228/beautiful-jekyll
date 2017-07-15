@@ -23,9 +23,10 @@ description: Welcome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Archives: "archives"  
   Resources: 
     - My Jumble of Computer Vision: "https://joshua19881228.github.io/2016-08-25-my-jumble-of-computer-vision/"
+  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -139,7 +140,8 @@ defaults:
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: false
+link-tags: true
+link-categories: true
 
 # Exclude these files from production site
 exclude:

@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20170219]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 I've been a great fun of ancient history and warfares since my childhood. Maybe the first enlightenment comes from the serial computer games *Age of Empires*. I didn't know *Joan of Arc* until I played the campaign in *Age of Empires II* when I was 11 or 12 years old. The story in the ganme was so attractive that I searched who Joan of Arc was and what she did on Internet. I was touched by her patriotic acts and sacrifices. I even began to be interested in France history and wanted to study French in university, though I finally chose EE as my major and became an engineer in AI. 

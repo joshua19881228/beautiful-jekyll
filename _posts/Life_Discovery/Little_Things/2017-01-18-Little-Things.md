@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170118]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 生活里有好多大山要翻啊！

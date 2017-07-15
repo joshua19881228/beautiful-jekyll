@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161129]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 >那年春节，我倒心血来潮提起了勇气，开始走访一个个小时候玩伴的家。

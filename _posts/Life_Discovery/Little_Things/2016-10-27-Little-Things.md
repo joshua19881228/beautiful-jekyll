@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20161027]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 有时候不要做无谓的挣扎，尤其是在总部跟你要东西的时候。

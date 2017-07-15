@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170629]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 It's been less input to me recently so that less output from me. This month is really busy. It's time to keep up!

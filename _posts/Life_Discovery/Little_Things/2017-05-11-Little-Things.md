@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170511]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 It's been really great to see the wold.

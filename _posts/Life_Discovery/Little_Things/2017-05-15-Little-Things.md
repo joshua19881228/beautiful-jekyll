@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170515]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 I ordered flower from an App that some randomly selected flowers will be sent to me every Monday morning. The flower brings liveliness to my life and cheers me up.

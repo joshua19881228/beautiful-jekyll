@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170417]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 This photo reflects my life. 

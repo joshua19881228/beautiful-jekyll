@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170302]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 Wow~~~ It's the first time that I baked something. Hmm... perhaps I should call them caterpillar cookies :) Maybe in the future I can make cakes.

@@ -1,6 +1,7 @@
 ---
 title: "Reading Note: Pixel Objectness"
-category: ["Computer Vsion", "Reading Note"]
+category: ["Computer Vsion"]
+tag: "Reading Note"
 ---
 
 **TITLE**: Pixel Objectness

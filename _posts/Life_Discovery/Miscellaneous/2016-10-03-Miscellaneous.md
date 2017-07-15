@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161003]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 最近看了不少小说和电影。

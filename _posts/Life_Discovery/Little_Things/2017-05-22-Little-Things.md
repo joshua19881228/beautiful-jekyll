@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170522]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 Well, today I think I made an important decision for my future and let's see what will happen!

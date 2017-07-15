@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170103]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 > 春饼是北京吃食中最好吃的一种，我们全家一直都这么认为，吃起来简直没有够，年年做，年年吃，年年夸。

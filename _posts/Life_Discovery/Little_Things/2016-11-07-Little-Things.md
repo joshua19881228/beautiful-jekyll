@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20161107]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 Win a regular game at Deity difficulty!

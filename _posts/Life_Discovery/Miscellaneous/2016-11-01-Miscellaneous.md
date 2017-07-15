@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161101]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 I've been a big fun of sailing boats since I was a little child. I do not know what in my childhood that made sailing boats so attractive to me. Maybe it is my fantasies of the romance of sailors, the fabulous view of the wild ocean, or the beauty of the boats themselves. 

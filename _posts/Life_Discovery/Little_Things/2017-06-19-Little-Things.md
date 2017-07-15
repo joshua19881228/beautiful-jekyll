@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170619]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 I'm always looking for the brightest sunshine!

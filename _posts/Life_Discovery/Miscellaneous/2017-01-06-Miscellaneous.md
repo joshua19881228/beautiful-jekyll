@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20170106]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 想看《熔炉》很久了，一直没看，趁着元旦假期终于看了，当时看完有点后悔，因为实在太压抑，弄得我整个假期情绪都不好。

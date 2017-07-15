@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20170109]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 日式治愈系电影《阪急电车》，每个与你擦肩而过的人都可能给你的生活带来变化，但是如果我们早已不关心身边的人了，那我们又如何从彼此之间获取能力呢。

@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161126]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 >人世间不会有小说或童话故事那样的结局：“从此，他们永远快快活活地一起过日子。”

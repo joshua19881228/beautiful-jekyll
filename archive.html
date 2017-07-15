@@ -1,0 +1,18 @@
+---
+layout: page
+permalink: /archives/
+title: Archives
+---
+
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+    
+    <h2 class="category-head"><a href="/category/{{ category_name }}">{{ category_name }}</a></h2>
+
+  </div>
+{% endfor %}
+</div>

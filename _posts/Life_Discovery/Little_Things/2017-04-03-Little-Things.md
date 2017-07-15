@@ -1,6 +1,7 @@
 ---
 title: "Little Things [20170403]"
-category: ["Little Things", "Life Discovery"]
+category: "Life Discovery"
+tag: "Little Things"
 ---
 
 The topic of this weekend is watching movies. For each movie, I wrote a one-setence comment.

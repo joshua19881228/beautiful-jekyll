@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161105]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 Today I cleaned up my photo album, and recalled much looking at these photos. The city of Krakow, which is located in the south of poland and the former capital of the country, aroused my desire of travelling. Krakow is one of the most important cities in Europe because of its fantasitic history and culture. I did not know this city until I submitted a paper to an international conference in 2013.

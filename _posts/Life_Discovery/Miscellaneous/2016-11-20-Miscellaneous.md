@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161120]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 这个周末的主题是有村架纯和宫崎葵。看了有村参演的《垫底辣妹》、《请叫我英雄》和《闪烁的爱情》，宫崎参演的《如果猫从世界上消失了》、《编舟记》、《黄色大象》、《丈夫得了抑郁症》、《少年手指虎》，还重温了一下《NANA》。

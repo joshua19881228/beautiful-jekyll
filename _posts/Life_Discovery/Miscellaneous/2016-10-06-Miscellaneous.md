@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous [20161006]"
-category: ["Miscellaneous", "Life Discovery"]
+category: "Life Discovery"
+tag: "Miscellaneous"
 ---
 
 # First Post on 20161006 #
