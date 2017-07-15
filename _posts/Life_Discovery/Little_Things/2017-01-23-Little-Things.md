@@ -1,0 +1,8 @@
+---
+title: "Little Things [20170123]"
+category: ["Little Things", "Life Discovery"]
+---
+
+It's only 18 years till the story of *I, Robot* happens...
+
+<img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Life_Discovery/Little_Things/figures/IRobot.jpg" alt="" width="480"/>

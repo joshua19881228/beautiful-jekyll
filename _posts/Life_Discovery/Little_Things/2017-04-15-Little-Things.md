@@ -1,0 +1,8 @@
+---
+title: "Little Things [20170415]"
+category: ["Little Things", "Life Discovery"]
+---
+
+How's about this?? Maybe I'd like to start up my own business of bakery if I was unemployed. LOL...
+
+<img class="img-responsive center-block" src="https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Life_Discovery/Little_Things/figures/20170415.jpg" alt="" width="480"/>

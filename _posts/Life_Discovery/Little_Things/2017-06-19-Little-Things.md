@@ -1,0 +1,8 @@
+---
+title: "Little Things [20170619]"
+category: ["Little Things", "Life Discovery"]
+---
+
+I'm always looking for the brightest sunshine!
+
+![Barberton Daisy](https://raw.githubusercontent.com/joshua19881228/my_blogs/master/Life_Discovery/Little_Things/figures/20170619.jpg "Barberton Daisy"){: .center-image .image-width-480}
