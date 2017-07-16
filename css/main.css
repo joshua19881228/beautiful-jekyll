@@ -687,6 +687,10 @@ td.gutter {
 /* --- post --- */
 article {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.blog-post {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align:justify;
   text-justify:inter-ideograph;
 }
