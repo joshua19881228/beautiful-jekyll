@@ -5,6 +5,8 @@ title: Archives
 ---
 
 <div class="posts-list">
+  <div id="#This_year"></div>
+  <p></p>
   <h2>This year's posts</h2>
   {%for post in site.posts %}
     {% unless post.next %}
@@ -14,6 +16,8 @@ title: Archives
       {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
       {% if year != nyear %}
         </ul>
+          <div id="#{{ year | slugize }}"></div>
+          <p></p>   
           <h2>{{ post.date | date: '%Y' }}</h2>
         <ul class="past">
       {% endif %}
