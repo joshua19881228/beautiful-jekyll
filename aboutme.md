@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Zhixuan LI's Bio
+comments: true
 ---
 
 My name is Zhixuan LI, and if you like you can call me Joshua which sounds similar to my Chinese name in some way. I am an engineer familiar with computer vision and related applications.
