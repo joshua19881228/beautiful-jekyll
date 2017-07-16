@@ -4,7 +4,7 @@ permalink: /categories/
 title: Categories
 ---
 
-<div id="Categories">
+<div id="posts-list">
 {% for category in site.categories %}
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
