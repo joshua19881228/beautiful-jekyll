@@ -1,20 +1,10 @@
 ---
 layout: page
-permalink: /archives/
-title: Archives
+permalink: /categories/
+title: Categories
 ---
 
-<div class="posts-list">
-  {% for post in site.posts %}
-  <div class="archive-group">
-      <article class="archive-item">
-        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
-      </article>
-  </div>
-  {% endfor %}
-</div>
-
-<div id="archives">
+<div id="Categories">
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
