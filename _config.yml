@@ -23,7 +23,8 @@ description: Welcome!
 
 # List of links in the navigation bar
 navbar-links:
-  Archives: "archives"  
+  Archives: "archives"
+  Categories: "categories"
   Resources: 
     - My Jumble of Computer Vision: "https://joshua19881228.github.io/2016-08-25-my-jumble-of-computer-vision/"
   About Me: "aboutme"
